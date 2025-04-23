@@ -74,7 +74,7 @@
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />
+  <img src="file:///C:/Users/Shivam/Downloads/figma.svg" width="40" />
 </p>
 
 ---
