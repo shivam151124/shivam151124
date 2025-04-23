@@ -10,7 +10,7 @@
   <a href="https://twitter.com/shivambehera12">
     <img src="https://img.shields.io/twitter/follow/shivambehera12?logo=twitter&style=for-the-badge" />
   </a>
-  <a href="https://instagram.com/_shivam__1901">
+  <a href="https://www.instagram.com/_shivam__1901/">
     <img src="https://img.shields.io/badge/@_shivam__1901-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
