@@ -10,9 +10,10 @@
   <a href="https://twitter.com/shivambehera12">
     <img src="https://img.shields.io/twitter/follow/shivambehera12?logo=twitter&style=for-the-badge" />
   </a>
-  <a href="https://www.instagram.com/_shivam__1901/">
-    <img src="https://img.shields.io/badge/@_shivam__1901-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+ <a href="https://www.instagram.com/_shivam__1901/" target="_blank">
+  <img src="https://img.shields.io/badge/@_shivam__1901-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://indoanalytica.com/static/images/data-science-5.gif" />
